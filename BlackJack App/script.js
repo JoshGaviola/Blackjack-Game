@@ -1,4 +1,4 @@
-let player = { //4:19:54
+let player = { 
     name: "You",
     chips: 200
 }
